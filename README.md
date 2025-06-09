@@ -123,7 +123,7 @@ This project goes over how to create a SharePoint site using Microsoft 365’s S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: TEAM SITE box.  Select & Click: The template you want to use (ex: Standard team).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>EX Click: TEAM SITE box.  Select & Click: The template you want to use (ex: Standard team).</b></span>  
 <br/>
 
 <table>
