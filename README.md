@@ -96,7 +96,7 @@ This project goes over how to create a SharePoint site using Microsoft 365’s S
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>EX: Select & Click: A Team site (to get Microsoft templetes)  (OR)  Browse more sites (bottom-left).</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select & Click: A Team site (to get Microsoft templetes)  (OR)  Browse more sites (bottom-left).</b></span>  
 <br/>
 
 <table>
