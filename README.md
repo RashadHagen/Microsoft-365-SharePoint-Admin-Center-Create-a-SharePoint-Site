@@ -122,3 +122,124 @@ This project goes over how to create a SharePoint site using Microsoft 365’s S
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: TEAM SITE box.  Select & Click: The template you want to use (ex: Standard team).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/yWW3fiX.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/TUkgo5S.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/FwMkb3D.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Use template.  Type: Site name (more fields will appear after you start typing the site name) (NOTE: admin can still control the site in the backend without being an owner).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/qXFI273.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/ApCBeHu.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/MEnxgkG.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vQNd8W9.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next.  Select: Privacy settings (Public (OR) Private), Language, and Time zone.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/NClYzhp.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/AMmH2x1.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Tv90Vsw.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create site.  Type: Members you want to have access to the site (NOTE: They will get notified).  Click: Down-arrow (below the user’s name) to select if you want to make them a Member (can only edit the site)  (0R)  Owner (has full permissions of the site).  Click: Finish.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/kCYPTVV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/dOLd5ud.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/I2J2cix.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vizKXP3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WerMTQZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/PsEvvvP.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>BROWSE MORE SITES - Type: Site information / Group Owner information (who will control the site – NOTE: admin can still control the site in the backend without being an owner).  Click: Next.  Select: Language & Time.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ofb7taF.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/T5kDKaM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/GV6Ko8M.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create site (this is the last step before the site is created – no adding members option or Finish).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/D6FvPRq.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
